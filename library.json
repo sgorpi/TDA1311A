@@ -1,0 +1,19 @@
+{
+"name": "TDA1311A",
+"frameworks": "Arduino",
+"keywords": "TDA1311A, DA, DAC, Stereo",
+"description": "Driver for the TDA1311A Stereo Continuous Calibration DAC",
+"url": "",
+"authors":
+[
+{
+        "name": "Hedde Bosman"
+},
+],
+"repository":
+{
+    "type": "git",
+    "url": ""
+}
+}
+
